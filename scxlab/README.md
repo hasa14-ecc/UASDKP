@@ -1,5 +1,4 @@
-# Secure Coding Exam Lab
-Tidak untuk diunggah pada production server, kecuali Anda mengerti risiko yang ditimbulkan.
+
 
 # Build and Run
 
@@ -8,4 +7,5 @@ Tidak untuk diunggah pada production server, kecuali Anda mengerti risiko yang d
 ```
 
 Kunjungi http://localhost:8080 via web browser
+
 
